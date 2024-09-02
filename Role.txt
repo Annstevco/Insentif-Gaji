@@ -1,0 +1,6 @@
+Role
+1. Annike Stella Cova 		(120140041) (Project Owner)
+2. Andika Rizki Ramadhan	(120140002) (Back-End)
+3. Rio Prasetyo			(120140025) (Front-End)
+4. Nashirotul Maftuha		(120140031) (UI/UX)
+5. Yogi Immanuel Pinem		(120140011) (Testing)
